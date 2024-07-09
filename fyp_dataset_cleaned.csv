@@ -1,0 +1,379 @@
+Age,Gender,Temperature (°F),Heart Rate (bpm),SPO2 (%),Diagnosis,Diagnosis_2,Result
+20,female,99,91,99,sore throat,fever,urti
+24,female,99,73,99,cough,sore throat,urti
+26,female,99,112,99,chest pain,fever,urti
+63,male,98.6,92,98,loose motion,vomiting,age
+39,female,98,92,97,breathlessness,dizziness,gad
+39,male,99,114,97,vomiting,loose motion,age
+27,female,98.6,75,98,cough,sore throat,urti
+1,male,98.6,110,96,cough,sore throat,urti
+3.5,female,98,92,99,vomiting,loose motion,age
+48,female,98,76,98,cough,sore throat,urti
+17,male,102,116,98,cough,fever,urti
+43,female,98.6,58,96,vomiting,abdominal pain,age
+3,female,100,95,98,cough,fever,urti
+4,male,101,90,98,fever,vomiting,hyperemic
+29,female,98.6,115,99,vomiting,dizziness,gad
+23,male,98.6,82,97,cough,flu,urti
+53,female,98,112,95,cough,sore throat,urti
+3.5,female,98,103,98,loose motion,vomiting,age
+23,female,100,128,99,sore throat,fever,urti
+38,male,99,92,99,sore throat,fever,urti
+2,female,101,138,99,loose motion,fever,age
+25,male,98.6,85,98,loose motion,abdominal pain,age
+2,female,101,129,98,fever,bodyache,fever
+14,female,98,102,98,breathlessness,nausea,gad
+50,female,98,94,98,nausea,loose motion,age
+17,female,101,92,98,fever,vomiting,fever
+37,male,98,94,98,loose motion,vomiting,age
+52,female,99,89,99,fever,weakness,urti
+7,male,100,92,99,loose motion,vomiting,age
+8,male,98,120,96,cough,sore throat,urti
+26,female,98,90,99,loose motion,vomiting,age
+56,male,99,82,98,fever,bodyache,fever
+35,female,99,73,98,nausea,loose motion,age
+30,female,101,110,98,cough,fever,fever
+34,female,102,126,99,fever,sore throat,urti
+52,female,98,107,96,vomiting,loose motion,age
+52,female,98.6,96,97,vomiting,abdominal pain,age
+50,female,98.6,94,99,loose motion,abdominal pain,age
+25,female,102,120,98,fever,bodyache,fever
+42,male,98.6,84,96,loose motion,abdominal pain,age
+6.5,male,101,137,98,fever,bodyache,fever
+67,male,98.6,93,99,loose motion,bodyache,age
+34,male,101,105,98,fever,cough,urti
+27,female,101,116,99,fever,bodyache,fever
+1.5,female,100,107,94,fever,cough,urti
+5,female,101,107,94,fever,abdominal pain,fever
+42,male,101,100,96,loose motion,fever,fever
+40,female,101,121,97,fever,cough,fever
+29,female,100,100,98,nausea,bodyache,age
+2.5,male,100,120,99,fever,sore throat,urti
+13,male,100,124,96,fever,cough,urti
+38,female,98.6,115,99,nausea,weakness,age
+4,male,98,92,96,vomiting,loose motion,age
+1.5,female,98.6,92,99,vomiting,loose motion,age
+53,female,98.6,121,98,loose motion,bodyache,age
+35,female,98.6,75,99,loose motion,vomiting,age
+1.5,male,98,92,98,loose motion,nausea,age
+24,female,98,92,98,nausea,vomiting,age
+1.5,female,99,92,98,fever,loose motion,age
+42,female,103,128,98,fever,bodyache,fever
+1,female,100,108,98,fever,cough,urti
+85,female,98.6,96,97,loose motion,nausea,age
+35,female,100,100,99,sore throat,headache,urti
+32,female,98,110,99,vomiting,epigastric pain,gerd
+47,female,98,58,97,loose motion,vomiting,age
+60,female,98.6,88,95,loose motion,epigastric pain,age
+39,male,98.6,84,99,fever,cough,fever
+29,female,100,102,98,fever,cough,fever
+21,male,98.6,117,99,sore throat,headache,urti
+23,female,99,101,99,fever,cough,fever
+61,female,98.6,100,98,sore throat,cough,hyperemic
+8,female,100,104,96,fever,vomiting,hyperemic
+8,male,100,110,99,fever,vomiting,fever
+54,female,98.6,110,99,loose motion,nausea,age
+70,male,98.6,81,97,loose motion,nausea,age
+5,male,98,92,98,abdominal pain,cough,urti
+3,male,100,96,98,fever,bodyache,fever
+10,male,99,110,97,vomiting,fever,fever
+14,female,100,152,99,fever,sore throat,hyperemic
+1,female,99,120,98,cough,flu,urti
+29,female,98,100,98,vomiting,nausea,age
+78,male,100,110,96,fever,bodyache,fever
+8,female,98,88,99,loose motion,nausea,age
+53,female,98.6,101,98,loose motion,vomiting,age
+30,male,98.6,96,98,sore throat,cough,urti
+5,male,101,102,99,fever,sore throat,hyperemic
+30,female,102,104,98,fever,bodyache,fever
+28,female,99,118,97,fever,headache,fever
+45,male,98,66,98,breathlessness,epigastric pain,gerd
+40,female,98.6,101,99,loose motion,abdominal pain,age
+23,female,98,92,99,loose motion,abdominal pain,age
+60,female,101,106,98,fever,nausea,fever
+40,male,98.6,99,99,abdominal pain,nausea,age
+13,female,98,112,99,loose motion,abdominal pain,age
+60,female,98,92,96,loose motion,vomiting,age
+5,female,98.6,101,99,abdominal pain,vomiting,age
+3,male,99,102,98,fever,bodyache,fever
+25,female,98.6,84,96,sore throat,bodyache,hyperemic
+3,male,98.6,101,98,vomiting,loose motion,age
+10,male,98,102,99,vomiting,abdominal pain,age
+30,male,98,103,99,headache,epigastric pain,gerd
+1,male,101,96,98,fever,cough,urti
+15,female,102,78,99,fever,nausea,fever
+52,male,98.6,74,99,loose motion,vomiting,age
+80,female,98,101,92,chest pain,cough,urti
+14,female,98.6,94,99,sore throat,flu,urti
+30,male,98.6,60,99,loose motion,epigastric pain,gerd
+10,female,98.6,130,96,loose motion,vomiting,age
+21,female,98,92,99,headache,breathlessness,gad
+32,female,98.6,76,99,bodyache,sore throat,urti
+3,male,101,160,99,fever,weakness,fever
+2.5,male,102,94,99,loose motion,fever,fever
+3,male,99,103,96,fever,bodyache,fever
+52,male,100,102,97,fever,vomiting,fever
+9,male,100,126,99,fever,sore throat,fever
+16,female,99,92,98,fever,bodyache,urti
+23,female,98.6,92,99,loose motion,nausea,age
+12,male,103,78,92,fever,bodyache,hyperemic
+17,male,99,120,98,fever,sore throat,fever
+8,female,100,121,99,fever,sore throat,fever
+0.5,female,99,101,99,loose motion,vomiting,age
+38,female,98.6,100,99,loose motion,abdominal pain,age
+38,female,98.6,89,97,bodyache,loose motion,gad
+20,male,99,72,99,fever,cough,fever
+0.5,male,101,106,96,fever,chest pain,fever
+4,female,100,92,99,fever,cough,urti
+0.5,male,99,104,98,fever,bodyache,fever
+14,female,99,89,99,loose motion,abdominal pain,age
+31,male,98.6,90,98,abdominal pain,nausea,gerd
+39,male,98.6,110,96,loose motion,vomiting,age
+5,female,100,99,98,fever,loose motion,age
+32,female,98.6,83,98,cough,flu,urti
+9,female,98.6,101,99,loose motion,epigastric pain,gerd
+22,female,98.6,112,98,cough,flu,urti
+43,female,98.6,163,99,epigastric pain,vomiting,gerd
+32,female,98.6,110,98,loose motion,vomiting,age
+15,male,99,124,98,fever,loose motion,fever
+40,female,98.6,126,97,loose motion,vomiting,age
+17,female,100,140,94,chest pain,fever,hyperemic
+2,male,98.6,92,98,fever,vomiting,fever
+4,male,98,160,99,fever,abdominal pain,fever
+4,male,98.6,120,89,loose motion,vomiting,age
+3,female,98.6,109,98,cough,flu,urti
+78,female,98.6,82,98,loose motion,vomiting,age
+1,female,102,106,95,fever,bodyache,fever
+4,female,104,163,99,fever,sore throat,fever
+20,female,98.6,92,98,loose motion,vomiting,age
+46,female,98,110,98,loose motion,epigastric pain,age
+28,female,98.6,92,99,fever,sore throat,urti
+27,female,98.6,98,99,loose motion,vomiting,age
+13,male,99,80,99,fever,bodyache,fever
+3.5,female,98.6,131,98,cough,sore throat,urti
+30,female,98.6,120,99,breathlessness,headache,gad
+0.5,female,98.6,112,99,loose motion,vomiting,age
+55,female,101,90,97,fever,bodyache,fever
+35,male,100,102,98,fever,sore throat,fever
+2.5,male,100,94,98,fever,cough,fever
+62,male,98.6,92,99,loose motion,vomiting,age
+36,male,98.6,120,98,epigastric pain,vomiting,gerd
+25,female,98.6,88,98,loose motion,vomiting,age
+2,male,98.6,144,98,loose motion,vomiting,age
+30,male,98.6,106,99,cough,sore throat,urti
+35,female,98.6,100,99,breathlessness,nausea,gad
+35,male,103,102,95,fever,sore throat,urti
+34,male,98.6,109,96,loose motion,nausea,age
+1.5,female,98.6,141,98,loose motion,vomiting,age
+17,male,100,92,98,fever,sore throat,hyperemic
+55,male,102,96,95,fever,chest pain,fever
+82,male,98.6,65,98,loose motion,epigastric pain,gerd
+3.5,male,101,116,98,fever,bodyache,urti
+60,female,98.6,81,86,breathlessness,epigastric pain,gerd
+30,female,98.6,103,93,epigastric pain,vomiting,gerd
+22,female,98,90,99,loose motion,vomiting,age
+34,female,98.6,87,97,loose motion,vomiting,age
+63,female,98,91,94,loose motion,vomiting,age
+40,female,98,116,94,loose motion,abdominal pain,age
+33,female,98.6,122,99,epigastric pain,vomiting,age
+18,female,99,76,98,fever,cough,urti
+42,male,98.6,88,99,fever,bodyache,hyperemic
+20,female,98.6,89,99,vomiting,abdominal pain,age
+57,female,100,126,97,loose motion,vomiting,age
+30,female,98.6,91,98,sore throat,bodyache,urti
+46,female,98.6,92,99,abdominal pain,vomiting,age
+12,female,98.6,102,99,epigastric pain,vomiting,gerd
+27,female,98.6,91,99,flu,sore throat,urti
+20,female,98.6,110,98,sore throat,cough,urti
+23,female,98.6,100,98,epigastric pain,vomiting,gerd
+2.5,female,100,102,96,vomiting,abdominal pain,age
+22,female,98.6,112,98,vomiting,loose motion,age
+62,female,98.6,83,99,loose motion,nausea,age
+25,male,103,110,99,fever,cough,urti
+32,female,100,107,99,fever,sore throat,urti
+41,female,98.6,91,97,loose motion,vomiting,age
+35,female,98.6,99,99,loose motion,vomiting,age
+39,male,98.6,119,97,loose motion,bodyache,age
+60,male,100,105,99,fever,chest pain,urti
+4,female,99,108,99,fever,cough,urti
+27,male,98.6,106,98,flu,sore throat,urti
+13,male,101,93,93,fever,cough,urti
+19,female,99,91,99,cough,sore throat,hyperemic
+70,female,98.6,88,97,loose motion,vomiting,age
+24,male,98.6,72,99,abdominal pain,nausea,gerd
+25,female,98.6,124,96,cough,sore throat,hyperemic
+20,female,98.6,113,98,sore throat,cough,hyperemic
+3.5,male,100,92,98,fever,cough,urti
+45,female,98.6,116,99,loose motion,vomiting,age
+39,male,98.6,93,99,epigastric pain,nausea,gerd
+6,female,101,120,98,fever,cough,fever
+1,male,101,100,96,fever,sore throat,fever
+25,male,98.6,90,98,fever,loose motion,fever
+60,male,98.6,80,98,loose motion,vomiting,age
+5,male,100,100,98,fever,cough,fever
+1.5,female,102,110,98,fever,sore throat,fever
+4,male,98.6,100,96,cough,chest pain,fever
+4,female,102,100,98,fever,sore throat,fever
+30,female,98.6,108,96,loose motion,vomiting,age
+14,female,98.6,99,99,fever,sore throat,urti
+41,male,98.6,103,98,vomiting,loose motion,age
+18,female,99,99.73623188,99,sore throat,fever,urti
+15,male,100,113,94,fever,flu,urti
+26,female,98.6,96,98,flu,sore throat,urti
+6,female,100,99.73623188,99,fever,flu,urti
+6,male,100,99.73623188,99,fever,loose motion,age
+20,female,98.6,95,99,fever,dizziness,fever
+38,male,98.6,90,98,fever,flu,urti
+20,female,101,89,98,headache,fever,fever
+70,female,98.6,99.73623188,99,epigastric pain,vomiting,fd
+35,female,98.6,76,99,headache,nausea,age
+50,female,100,100,99,vomiting,loose motion,age
+48,male,98.6,61,99,vomiting,breathlessness,gad
+60,female,98.6,99.73623188,98,breathlessness,vomiting,gad
+19,male,98.6,60,88,abdominal pain,breathlessness,gad
+3,male,100.5,100,96,fever,vomiting,hyperemic
+17,male,100.5,80,97,fever,headache,urti
+38,female,98.6,88,99,breathlessness,headache,gad
+1.25,male,98.6,110,98,vomiting,loose motion,age
+4,male,103,135,100,fever,sore throat,urti
+3,male,98.6,140,96,fever,vomiting,hyperemic
+1.5,male,100,92,99,fever,sore throat,urti
+17,female,102,99.73623188,99,headache,fever,fever
+1.5,female,99,99.73623188,98,vomiting,fever,hyperemic
+36,female,100,120,95,sore throat,bodyache,urti
+2.5,female,98.6,99.73623188,99,fever,sore throat,urti
+54,female,102,99.73623188,98,fever,bodyache,fever
+40,female,98.6,120,97,sore throat,fever,urti
+32,male,98.6,99.73623188,98,dysuria,fever,fever
+0.9,female,99,135,94,cough,loose motion,age
+18,female,102,99.73623188,98,dysuria,fever,fever
+30,female,98.6,76,99,fever,sore throat,urti
+39,female,100,99.73623188,98,fever,bodyache,fever
+24,male,99,101,99,fever,vomiting,fever
+35,male,101.5,134,98,fever,nausea,fd
+24,female,98.6,125,98,sore throat,bodyache,urti
+0.9,male,98,140,99,vomiting,loose motion,age
+51,female,98.6,99,99,vomiting,fever,hyperemic
+50,female,99,110,99,epigastric pain,vomiting,age
+60,female,98.6,73,94,loose motion,vomiting,fd
+24,male,100,85,96,loose motion,vomiting,age
+17,female,101,72,97,fever,sore throat,urti
+28,female,98.6,99.73623188,97,loose motion,vomiting,age
+0.5,female,100,112,98,fever,sore throat,urti
+30,female,98.6,103,98,epigastric pain,loose motion,age
+67,male,98.6,98,98,loose motion,nausea,age
+4,female,100,106,98,fever,sore throat,urti
+0.9,male,100,92,98,loose motion,vomiting,age
+35,female,98.6,97,98,abdominal pain,loose motion,age
+23,male,99,120,99,fever,sore throat,urti
+23,male,98.6,92,98,epigastric pain,loose motion,age
+17,female,98.6,132,98,loose motion,vomiting,age
+2,female,102,102,98,cough,fever,urti
+40,male,100,100,98,fever,vomiting,hyperemic
+30,female,98.6,99,98,epigastric pain,loose motion,age
+55,female,98.6,110,96,sore throat,bodyache,urti
+18,female,99,99.73623188,98,loose motion,vomiting,age
+15,female,98,99.73623188,98,fever,sore throat,urti
+18,female,98,99.73623188,98,loose motion,vomiting,age
+50,female,101,99.73623188,98,loose motion,vomiting,age
+60,female,98.6,100,98,abdominal pain,vomiting,fd
+33,male,98.6,99.73623188,99,headache,breathlessness,gad
+54,female,101,99.73623188,96,fever,sore throat,urti
+42,female,98.6,95,97,abdominal pain,headache,fd
+8,female,98,83,98,loose motion,vomiting,age
+12,female,98,68,99,loose motion,vomiting,age
+52,female,100,110,98,fever,sore throat,urti
+54,female,98.6,95,99,loose motion,nausea,age
+28,male,99,97,99,flu,fever,urti
+20,male,98.6,120,99,loose motion,nausea,age
+20,female,99,120,96,loose motion,vomiting,age
+21,female,98.6,77,99,abdominal pain,loose motion,age
+46,female,98.6,96,99,epigastric pain,vomiting,fd
+32,male,98.6,91,99,flu,cough,urti
+28,female,98.6,106,98,fever,vomiting,fever
+29,female,98.6,91,98,flu,sore throat,urti
+51,female,98.6,111,96,fever,sore throat,urti
+34,male,98.6,99.73623188,98,headache,nausea,fd
+41,male,100,99.73623188,98,fever,vomiting,fever
+60,female,100,99.73623188,98,fever,sore throat,urti
+62,female,99,72,98,abdominal pain,loose motion,age
+27,male,103,123,96,fever,bodyache,fever
+60,female,98.6,85,97,loose motion,nausea,age
+29,female,100,120,99,headache,cough,urti
+0.1,male,100,120,98,fever,cough,urti
+45,male,98.6,73,97,flu,sore throat,urti
+1,female,99,91,98,fever,vomiting,fever
+47,female,98.6,67,99,epigastric pain,loose motion,age
+29,female,98.6,113,99,fever,cough,urti
+32,female,98.6,92,99,loose motion,vomiting,age
+16,female,100,120,98,fever,cough,urti
+26,female,98.6,120,99,loose motion,vomiting,age
+20,female,100,75,99,abdominal pain,loose motion,age
+43,female,98.6,90,98,abdominal pain,loose motion,age
+43,female,100,101,99,loose motion,vomiting,age
+12,female,99,105,95,loose motion,vomiting,age
+27,female,98.6,90,99,fever,bodyache,fever
+35,female,101,101,99,dysuria,nausea,fd
+27,female,98.6,99.73623188,98,chest pain,cough,urti
+8,female,98.6,70,99,epigastric pain,nausea,fd
+32,male,98.6,75,99,sore throat,vomiting,urti
+52,female,98.6,73,99,epigastric pain,vomiting,fd
+1.5,male,101,99.73623188,99,fever,cough,urti
+32,female,98.6,91,99,headache,nausea,fd
+40,female,98.6,90,99,breathlessness,nausea,gad
+48,female,98.6,82,99,sore throat,bodyache,urti
+32,female,98.6,84,99,headache,nausea,fd
+74,female,98.6,85,98,loose motion,vomiting,age
+54,male,98,142,90,epigastric pain,loose motion,age
+55,female,99,92,99,loose motion,vomiting,age
+53,female,98.6,112,95,cough,vomiting,fd
+71,female,99,102,99,loose motion,vomiting,age
+40,female,98.6,82,99,loose motion,vomiting,age
+13,male,100,99.73623188,97,fever,sore throat,urti
+19,female,98.6,65,99,epigastric pain,vomiting,fd
+11,female,98.6,77,98,dysuria,abdominal pain,fd
+23,female,98.6,66,99,abdominal pain,nausea,fd
+0.3,male,99,112,99,loose motion,vomiting,age
+32,female,98.6,98,98,fever,sore throat,urti
+6,male,100,92,98,fever,bodyache,fever
+22,female,101,124,96,fever,bodyache,fever
+42,female,98.6,92,99,fever,bodyache,fever
+42,male,98.6,108,98,fever,sore throat,urti
+19,female,98.6,77,99,loose motion,nausea,age
+26,female,99,63,96,abdominal pain,nausea,fd
+17,female,98.6,86,97,abdominal pain,weakness,fd
+5,female,100,99.73623188,98,dysuria,fever,fever
+38,female,98.6,89,99,loose motion,vomiting,age
+51,male,98.6,80,99,dizziness,vomiting,fd
+3,female,99,90,99,loose motion,fever,age
+26,female,98.6,104,99,breathlessness,nausea,gad
+21,female,98.6,92,99,breathlessness,vomiting,gad
+0.3,female,98.6,99.73623188,99,loose motion,vomiting,age
+21,female,98.6,92,99,fever,bodyache,fever
+39,male,100,106,98,fever,bodyache,fever
+80,female,98.6,99.73623188,98,abdominal pain,vomiting,fd
+38,male,98.6,99.73623188,98,headache,fever,fever
+5,female,98.6,92,98,loose motion,vomiting,age
+25,female,99,114,97,fever,cough,urti
+34,male,100,99.73623188,98,fever,sore throat,urti
+15,male,100,87,97,dysuria,fever,fever
+27,male,98,104,97,fever,bodyache,fever
+30,female,98.6,82,99,headache,nausea,fd
+40,female,98.6,140,91,loose motion,vomiting,age
+70,female,98.6,99.73623188,99,headache,nausea,fd
+29,male,101,124,97,fever,cough,urti
+20,female,98.6,88,98,loose motion,vomiting,age
+30,female,98.6,76,99,epigastric pain,nausea,fd
+32,female,98.6,99.73623188,99,loose motion,nausea,age
+21,male,98,83,94,fever,cough,urti
+21,female,98.6,92,98,epigastric pain,nausea,fd
+13,male,98.6,92,97,loose motion,nausea,fd
+8,male,101,72,99,abdominal pain,fever,fd
+27,female,98.6,96,98,headache,nausea,fd
+11,male,98,99.73623188,98,loose motion,vomiting,age
+20,female,98.6,76,98,loose motion,vomiting,age
+60,female,98.6,85,98,loose motion,bodyache,age
+32,male,98.6,76,99,abdominal pain,bodyache,fd
+65,female,99,84,99,dizziness,nausea,fd
+13,female,104,70,99,loose motion,vomiting,age
+31,female,98.6,91,97,loose motion,vomiting,age
